@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Akshat Jindal 👨‍💻  
+# 👋 Hi there! I'm Aakshat Jindal 👨‍💻  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=38C2FF&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Open-Source+Enthusiast;Building+Cool+Projects!)](https://git.io/typing-svg)
 
 ---
