@@ -22,7 +22,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 
 ---
 
@@ -58,13 +57,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/akshatjindal)
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshatJ15/akshatJ15/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-![snake gif](https://github.com/akshatJ15/akshatJ15/blob/output/github-contribution-grid-snake.gif)
-
 
 <!--- snake -->
 <div align="center">
