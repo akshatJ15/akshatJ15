@@ -40,13 +40,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshatJ15&show_icons=true&hide_border=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatJ15&layout=compact&hide_border=true&theme=radical" />
-</div>
-
----
-
-### ⚡ Fun Projects
-- 🔥 [Chatty](https://chatty-7foh.onrender.com/login): A real-time chat app with Socket.io and Tailwind CSS.  
-- 🚀 [CodeCraft](https://codecraft-tau-lemon.vercel.app/): An online compiler using Next.js, Convex, and Lemon Squeezy.  
+</div> 
 
 ---
 
