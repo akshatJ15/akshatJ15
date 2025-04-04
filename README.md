@@ -1,59 +1,93 @@
-# 👋 Hi there! I'm Aakshat Jindal 👨‍💻  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=38C2FF&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Open-Source+Enthusiast;Building+Cool+Projects!)](https://git.io/typing-svg)
+
+<h1 align="center">✨ Aakshat Jindal</h1>
+<h3 align="center">Full Stack Web Engineer | Crafting Experiences, Not Just Code</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=38C2FF&center=true&vCenter=true&width=700&lines=Modern%20Web%20Engineer%20%7C%20Next.js%20%7C%20MERN%20%7C%20Convex;Building%20elegant%2C%20performant%2C%20and%20scalable%20apps.;Code%20that%20feels%20like%20design%2C%20design%20that%20feels%20like%20magic." alt="Typing SVG" />
+</p>
 
 ---
 
-### 💻 About Me
-- 🌟 Passionate MERN Stack Developer.
-- 🚀 Always exploring cutting-edge web technologies.
-- 🌐 Creating **dynamic**, **scalable**, and **user-friendly** applications.
-- 🎯 Currently building projects with **Next.js**, **MongoDB**, **Express**, **React**, and **Node.js**.
+## 🌟 About Me
+
+I'm a passionate **Full Stack Developer** who bridges **design thinking** with **engineering precision**.  
+My mission? To create elegant, intuitive web apps that *delight users* and *scale with confidence*.  
+
+🛠 Currently engineering with:
+- **Next.js**, **React**, **Tailwind**, **MongoDB**, **Convex**
+- Deep focus on **performance**, **accessibility**, and **DX (Developer Experience)**
 
 ---
 
-### 🛠️ Tech Stack
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+## 🧠 Technical Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-00B88C?style=flat-square&logo=code&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00C7B7?style=flat-square&logo=render&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-2C3454?style=flat-square&logo=clerk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### 🚀 Tools & Platforms
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
-![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Clerk](https://img.shields.io/badge/-Clerk-2C3454?logo=clerk&logoColor=white&style=flat)
-![Convex](https://img.shields.io/badge/-Convex-44BB88?logo=code&logoColor=white&style=flat)
+## 📌 Focus Areas
+
+```ts
+function whatDrivesMe() {
+  return [
+    "Building seamless user experiences",
+    "Architecting maintainable systems",
+    "Collaborating with creative minds",
+    "Staying on the edge of innovation"
+  ];
+}
+```
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshatJ15&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatJ15&layout=compact&hide_border=true&theme=radical" />
-</div> 
+## 📈 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatJ15&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatJ15&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
 
 ---
 
-### 🌟 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/akshatjindal)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github&logoColor=white&style=flat)](https://akshatjindal.dev)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/akshatJ15)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/akshatjindal)
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshatjindal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://akshatjindal.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/akshatJ15" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/akshatjindal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+## 🐍 Contributions Flow
+
+<p align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" />
+</p>
