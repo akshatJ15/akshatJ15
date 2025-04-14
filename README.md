@@ -61,27 +61,7 @@ function whatDrivesMe() {
 ## 📈 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatJ15&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatJ15&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
----
-
-## 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshatjindal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://akshatjindal.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/akshatJ15" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/akshatjindal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
 </p>
 
 ---
